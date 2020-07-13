@@ -2858,7 +2858,7 @@ HitObjects:
 - StartTime: 71408
   Lane: 2
   KeySounds: []
-- StartTime: 71457
+- StartTime: 71456
   Lane: 4
   KeySounds: []
 - StartTime: 71505
@@ -3935,14 +3935,29 @@ HitObjects:
 - StartTime: 96051
   Lane: 4
   KeySounds: []
+- StartTime: 96116
+  Lane: 3
+  KeySounds: []
+- StartTime: 96181
+  Lane: 4
+  KeySounds: []
+- StartTime: 96245
+  Lane: 1
+  KeySounds: []
+- StartTime: 96310
+  Lane: 2
+  KeySounds: []
+- StartTime: 96375
+  Lane: 3
+  KeySounds: []
 - StartTime: 96440
   Lane: 2
   KeySounds: []
 - StartTime: 96440
-  Lane: 3
+  Lane: 1
   KeySounds: []
 - StartTime: 96440
-  Lane: 1
+  Lane: 4
   KeySounds: []
 - StartTime: 96830
   Lane: 1
