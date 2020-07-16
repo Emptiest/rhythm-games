@@ -107,9 +107,6 @@ HitObjects:
 - StartTime: 15376
   Lane: 2
   KeySounds: []
-- StartTime: 15576
-  Lane: 4
-  KeySounds: []
 - StartTime: 15676
   Lane: 3
   EndTime: 15776
@@ -151,10 +148,6 @@ HitObjects:
 - StartTime: 16776
   Lane: 2
   EndTime: 16876
-  KeySounds: []
-- StartTime: 16976
-  Lane: 2
-  EndTime: 17076
   KeySounds: []
 - StartTime: 16976
   Lane: 1
