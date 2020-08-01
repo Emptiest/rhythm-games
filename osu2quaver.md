@@ -1,9 +1,9 @@
 #### Table of Contents
-1. [Intro](#so-you-re-an-osu-mania-player)
-2. [What's different?](#what-s-different-)
-3. [Why should you switch?](#why-should-you-switch-)
-4. [Why should you stay?](#why-should-you-stay-)
-5. [Disclaimers](#Disclaimers)
+1. [Intro](#so-youre-an-osumania-player)
+2. [What's different?](#whats-different)
+3. [Why should you switch?](#why-should-you-switch)
+4. [Why should you stay?](#why-should-you-stay)
+5. [Disclaimers](#disclaimers)
 
 
 # So you're an osu!mania player
@@ -16,33 +16,45 @@ If you're coming from Etterna, I can't really help you unfortunately, as I have 
 For most people I know, Quaver runs much more smoothly than osu!mania does on their hardware. Before playing Quaver, I thought osu was smooth, but because of how much smoother Quaver ran osu now seems like a stutter-fest. Your mileage may vary, of course, and you'll likely notice a bigger difference if you have the capability of running the game at a higher refresh rate than 60Hz.
 
 #### Features
-Obviously, lots of features to mention. Plenty I won't bother including on this list, but here are the ones I feel actually matter, not in any particular order:
+There are lots of features I won't bother including on this list, but here are the ones I feel actually matter, not in any particular order:
 
 * Live Map Previews
-* A much better editor (if you're into making your own maps)
+* A much better editor
 * You can download maps in-game without needing to donate
 * You can adjust the rate at which a song plays in 0.05x increments, from 0.50x to 2.00x, and those plays are rankable if on ranked songs
 * Customizable judgment windows
 * Hate LNs? There is an (unranked) NO LN mod you can apply to any map!
 * Love LNs? There is an (unranked) FULL LN mod you can apply to any map!
 * *Really* Love LNs? There is an (unranked) INVERSE mod you can apply to any map!
+* By the way, the hit and release of LNs are treated as separate notes for scoring
 * You can know before playing a map what % of the notes on the map are LNs
+* Highly acc-centric scoring system
+* Much better (read: actually functional) tools for fixing offset
+* Supports importing maps from osu!mania, Etterna, and other games
+* Reverse SV, if you're into that
+* 4K and 7K ranking is separated
+* A more useful results screen
 * Leaderboards on unranked songs^
-* Multiplayer map uploads^ (You can share unsubmitted maps with players in your lobby)
+* Multiplayer map uploads (You can share unsubmitted maps with players in your lobby)^
+* And probably more useful features to come...!
 
 (^) = Donator Features
 
 Many of these features are things that the community has been asking for from osu for years, for it to instead be rejected outright or promised in osu!lazer
 
 # Why should you switch?
+Other than the snazzy features mentioned above, why else should you switch?
+
 #### Community
 4K and 7K are the only gamemodes in Quaver. Unlike in osu, where osu!standard often overshadows players in the osu!mania community whenever it comes to larger community discussions, Quaver has no other game modes.
 
-#### Ranking
+The developers also actually play the game. And they're involved in the community. If there's something bad or broken about the game, they generally have an inherent interest in fixing it.
 
+#### Ranking
+As mentioned earlier, 4K and 7K are the only gamemodes. Their ranking is also separated. The points you receive toward ranking are based on your accuracy, rather than on the score of the play.
 
 # Why should you stay?
-While I am definitely in favor of Quaver, it's not perfect. It's still very clearly a beta. Here are a couple reasons why you might want to stick with osu!mania over Quaver.
+While I'm a fan of Quaver, it's not perfect. It's still very clearly a beta. Here are a couple reasons why you might want to stick with osu!mania over Quaver.
 
 * You like storyboards and videos
   * Quaver does not support any sort of animated backgrounds during play. If you import an osu!mania map into Quaver that has videos or storyboard elements, none of those will get transferred over.
@@ -51,8 +63,8 @@ While I am definitely in favor of Quaver, it's not perfect. It's still very clea
   * Kind of a weird technical restriction Quaver has: it cannot import maps that have foreign characters in them.
 * Stability
   * Quaver is, of course, still in beta. Lots of things are subject to change. If you don't like change, maybe Quaver isn't for you (yet).
-* Converting your skins is a pain
+* Converting your skin(s) is a pain
   * Anecdotally, I spent about 3 hours converting my osu!mania skin over to Quaver, and mine is a pretty simple bar skin. There is a [skin converter](https://rhythmgamers.net/QBC/) but it's nowhere near perfect yet.
 
 #### Disclaimers
-I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that.
+I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this.
