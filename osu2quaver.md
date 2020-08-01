@@ -25,19 +25,30 @@ There are lots of features I won't bother including on this list, but here are t
   <summary> Click for the list! ✅ </summary>
 
 * Live Map Previews
-
-    ![Live Map Previews](/images/LNPercent.png)
-
-
 * A much better editor
-* You can download maps in-game without needing to donate
-* You can adjust the rate at which a song plays in 0.05x increments, from 0.50x to 2.00x, and those plays are rankable if on ranked songs
+* Maps are downloadable in-game even without a donation
+* The rate at which a song plays can be adjusted in 0.05x increments, from 0.50x to 2.00x, and those plays are rankable if on ranked songs
+
+  ![Rates](/images/rates.png)
+
+
+
 * Customizable judgment windows
+
+  ![Judgments](/images/judgments.png)
+
+
+
 * Hate LNs? There is an (unranked) NO LN mod you can apply to any map!
 * Love LNs? There is an (unranked) FULL LN mod you can apply to any map!
 * *Really* Love LNs? There is an (unranked) INVERSE mod you can apply to any map!
-* By the way, the hit and release of LNs are treated as separate notes for scoring
+* LN starts and ends are treated as separate notes for scoring
 * You can know before playing a map what % of the notes on the map are LNs
+
+  ![LNPercent](/images/LNPercent.png)
+
+
+
 * Highly acc-centric scoring system
 * Much better (read: actually functional) tools for fixing offset
 * Supports importing maps from osu!mania, Etterna, and other games
