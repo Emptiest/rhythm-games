@@ -45,6 +45,7 @@ There are lots of features I won't bother including on this list, but here are t
 * LN starts and ends are treated as separate notes for scoring
 * You can know before playing a map what % of the notes on the map are LNs
 
+
   ![LNPercent](/images/LNPercent.png)
 
 
