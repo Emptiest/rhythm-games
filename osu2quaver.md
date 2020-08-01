@@ -1,15 +1,18 @@
 #### Table of Contents
 1. [Intro](#so-youre-an-osumania-player)
-2. [What's different?](#whats-different)
-3. [Why should you switch?](#why-should-you-switch)
-4. [Why should you stay?](#why-should-you-stay)
-5. [Disclaimers](#disclaimers)
+2. [Disclaimers](#disclaimers)
+3. [What's different?](#whats-different)
+4. [Why should you switch?](#why-should-you-switch)
+5. [Why should you stay?](#why-should-you-stay)
 
 
 # So you're an osu!mania player
 And you're here because maybe you've heard of yet another VSRG (Vertical Scrolling Rhythm Game) called *[Quaver](https://store.steampowered.com/app/980610/Quaver/)*. Maybe I directed you here from my stream because this question gets asked a lot. Don't worry! This readme is here to try and help.
 
 If you're coming from Etterna, I can't really help you unfortunately, as I have no experience with the game myself personally. I have heard positive things from my friends who have played Etterna, however, and I encourage you to check Quaver out!
+
+#### Disclaimers
+I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this.
 
 # What's different?
 #### Optimization
@@ -65,6 +68,3 @@ While I'm a fan of Quaver, it's not perfect. It's still very clearly a beta. Her
   * Quaver is, of course, still in beta. Lots of things are subject to change. If you don't like change, maybe Quaver isn't for you (yet).
 * Converting your skin(s) is a pain
   * Anecdotally, I spent about 3 hours converting my osu!mania skin over to Quaver, and mine is a pretty simple bar skin. There is a [skin converter](https://rhythmgamers.net/QBC/) but it's nowhere near perfect yet.
-
-#### Disclaimers
-I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this.
