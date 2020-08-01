@@ -2,15 +2,16 @@
 1. [Intro](#so-youre-an-osumania-player)
 2. [Disclaimers](#disclaimers)
 3. [What's different?](#whats-different)
-4. [Why should you stay?](#why-should-you-stay)
+4. [Why should you stay?](#why-should-you-stay-on-osu)
 
 
 # So you're an osu!mania player
 And you're here because maybe you've heard of yet another VSRG (Vertical Scrolling Rhythm Game) called [*Quaver*](https://store.steampowered.com/app/980610/Quaver/). Maybe I directed you here from my stream because this question gets asked a lot. Don't worry! This readme is here to try and help.
 
-If you're coming from Etterna, I can't really help you unfortunately, as I have no experience with the game myself personally. I have heard positive things from my friends who have played Etterna, however, and I encourage you to check Quaver out!
+If you're coming from Etterna, I can't help you from personal experience, as I haven't played Etterna much. I have heard positive things from my friends who have played Etterna, however, and I encourage you to check Quaver out!
 
 ## Disclaimers
+
 I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this. I just saw the value in having stuff listed out
 
 # What's different?
@@ -19,6 +20,9 @@ For most people I know, Quaver runs much more smoothly than osu!mania does on th
 
 ### Features
 There are lots of features I won't bother including on this list, but here are the ones I feel actually matter, not in any particular order:
+
+<details>
+  <summary> Click for the full list! ✅ </summary>
 
 * Live Map Previews
 * A much better editor
@@ -41,18 +45,17 @@ There are lots of features I won't bother including on this list, but here are t
 * And probably more useful features to come...!
 
 (^) = Donator Features
-
-Many of these features are things that the community has been asking for from osu for years, for it to instead be rejected outright or promised in osu!lazer
+</details>
 
 ### Community
 4K and 7K are the only gamemodes in Quaver. Unlike in osu, where osu!standard often overshadows players in the osu!mania community whenever it comes to larger community discussions, Quaver has no other game modes.
 
 The developers also actually play the game. And they're involved in the community. If there's something bad or broken about the game, they generally have an inherent interest in fixing it.
 
-### Ranking
+### Leaderboards
 As mentioned earlier, 4K and 7K are the only gamemodes. Their ranking is also separated. The points you receive toward ranking are based on your accuracy, rather than on the score of the play.
 
-# Why should you stay?
+# Why should you stay on osu?
 While I'm a fan of Quaver, it's not perfect. It's still very clearly a beta. Here are a couple reasons why you might want to stick with osu!mania over Quaver.
 
 * You like storyboards and videos
