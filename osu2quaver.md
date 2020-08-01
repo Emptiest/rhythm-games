@@ -22,7 +22,7 @@ For most people I know, Quaver runs much more smoothly than osu!mania does on th
 There are lots of features I won't bother including on this list, but here are the ones I feel actually matter, not in any particular order:
 
 <details>
-  <summary> Click for the full list! ✅ </summary>
+  <summary> Click for the list! ✅ </summary>
 
 * Live Map Previews
 * A much better editor
