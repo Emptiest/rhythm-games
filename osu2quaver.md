@@ -24,7 +24,7 @@ There are lots of features I won't bother including on this list, but here are t
 <details>
   <summary> Click for the list! ✅ </summary>
 
-* Live Map Previews
+* [Live Map Previews](/images/LNPercent.png)
 * A much better editor
 * You can download maps in-game without needing to donate
 * You can adjust the rate at which a song plays in 0.05x increments, from 0.50x to 2.00x, and those plays are rankable if on ranked songs
