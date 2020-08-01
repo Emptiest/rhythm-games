@@ -2,17 +2,16 @@
 1. [Intro](#so-youre-an-osumania-player)
 2. [Disclaimers](#disclaimers)
 3. [What's different?](#whats-different)
-4. [Why should you switch?](#why-should-you-switch)
-5. [Why should you stay?](#why-should-you-stay)
+4. [Why should you stay?](#why-should-you-stay)
 
 
 # So you're an osu!mania player
-And you're here because maybe you've heard of yet another VSRG (Vertical Scrolling Rhythm Game) called *[Quaver](https://store.steampowered.com/app/980610/Quaver/)*. Maybe I directed you here from my stream because this question gets asked a lot. Don't worry! This readme is here to try and help.
+And you're here because maybe you've heard of yet another VSRG (Vertical Scrolling Rhythm Game) called [*Quaver*](https://store.steampowered.com/app/980610/Quaver/). Maybe I directed you here from my stream because this question gets asked a lot. Don't worry! This readme is here to try and help.
 
 If you're coming from Etterna, I can't really help you unfortunately, as I have no experience with the game myself personally. I have heard positive things from my friends who have played Etterna, however, and I encourage you to check Quaver out!
 
 #### Disclaimers
-I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this.
+I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this. I just saw the value in having stuff listed out
 
 # What's different?
 #### Optimization
@@ -44,9 +43,6 @@ There are lots of features I won't bother including on this list, but here are t
 (^) = Donator Features
 
 Many of these features are things that the community has been asking for from osu for years, for it to instead be rejected outright or promised in osu!lazer
-
-# Why should you switch?
-Other than the snazzy features mentioned above, why else should you switch?
 
 #### Community
 4K and 7K are the only gamemodes in Quaver. Unlike in osu, where osu!standard often overshadows players in the osu!mania community whenever it comes to larger community discussions, Quaver has no other game modes.
