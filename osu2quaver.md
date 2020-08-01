@@ -6,7 +6,7 @@
 
 
 # So you're an osu!mania player
-And you're here because maybe you've heard of yet another VSRG (Vertical Scrolling Rhythm Game) called [*Quaver*](https://store.steampowered.com/app/980610/Quaver/). Maybe I directed you here from my stream because this question gets asked a lot. Don't worry! This readme is here to try and help.
+And you're here because maybe you've heard of yet another VSRG (Vertical Scrolling Rhythm Game) called [**Quaver**](https://store.steampowered.com/app/980610/Quaver/). Maybe I directed you here from my stream because this question gets asked a lot. Don't worry! This readme is here to try and help.
 
 If you're coming from Etterna, I can't help you from personal experience, as I haven't played Etterna much. I have heard positive things from my friends who have played Etterna, however, and I encourage you to check Quaver out!
 
