@@ -14,7 +14,7 @@ If you're coming from Etterna, I can't really help you unfortunately, as I have 
 I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this. I just saw the value in having stuff listed out
 
 # What's different?
-#### Optimization
+### Optimization
 For most people I know, Quaver runs much more smoothly than osu!mania does on their hardware. Before playing Quaver, I thought osu was smooth, but because of how much smoother Quaver ran osu now seems like a stutter-fest. Your mileage may vary, of course, and you'll likely notice a bigger difference if you have the capability of running the game at a higher refresh rate than 60Hz.
 
 #### Features
