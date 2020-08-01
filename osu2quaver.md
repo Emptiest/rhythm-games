@@ -17,7 +17,7 @@ I'm just a guy that plays video games. Sometimes rhythm games. I stream occasion
 ### Optimization
 For most people I know, Quaver runs much more smoothly than osu!mania does on their hardware. Before playing Quaver, I thought osu was smooth, but because of how much smoother Quaver ran osu now seems like a stutter-fest. Your mileage may vary, of course, and you'll likely notice a bigger difference if you have the capability of running the game at a higher refresh rate than 60Hz.
 
-#### Features
+### Features
 There are lots of features I won't bother including on this list, but here are the ones I feel actually matter, not in any particular order:
 
 * Live Map Previews
@@ -44,12 +44,12 @@ There are lots of features I won't bother including on this list, but here are t
 
 Many of these features are things that the community has been asking for from osu for years, for it to instead be rejected outright or promised in osu!lazer
 
-#### Community
+### Community
 4K and 7K are the only gamemodes in Quaver. Unlike in osu, where osu!standard often overshadows players in the osu!mania community whenever it comes to larger community discussions, Quaver has no other game modes.
 
 The developers also actually play the game. And they're involved in the community. If there's something bad or broken about the game, they generally have an inherent interest in fixing it.
 
-#### Ranking
+### Ranking
 As mentioned earlier, 4K and 7K are the only gamemodes. Their ranking is also separated. The points you receive toward ranking are based on your accuracy, rather than on the score of the play.
 
 # Why should you stay?
