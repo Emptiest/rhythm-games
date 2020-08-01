@@ -10,7 +10,7 @@ And you're here because maybe you've heard of yet another VSRG (Vertical Scrolli
 
 If you're coming from Etterna, I can't really help you unfortunately, as I have no experience with the game myself personally. I have heard positive things from my friends who have played Etterna, however, and I encourage you to check Quaver out!
 
-#### Disclaimers
+## Disclaimers
 I'm just a guy that plays video games. Sometimes rhythm games. I stream occasionally on Twitch, and am a Twitch Affiliate (meaning people can subscribe to my channel) but I have no sponsors or anything like that. Quaver didn't pay me to write this. I just saw the value in having stuff listed out
 
 # What's different?
