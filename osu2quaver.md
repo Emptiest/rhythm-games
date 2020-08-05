@@ -61,6 +61,7 @@ While I'm a fan of Quaver, it's not perfect. It's still very clearly a beta. Her
 * You like storyboards and videos
   * Quaver does not support any sort of animated backgrounds during play. If you import an osu!mania map into Quaver that has videos or storyboard elements, none of those will get transferred over.
 * You are engaged with the larger osu community and you would like to stay
+  * Related: You care about your rank in osu
 * Lots of the maps in your library have foreign characters in the metadata
   * Kind of a weird technical restriction Quaver has: it cannot import maps that have foreign characters in them.
 * Stability
