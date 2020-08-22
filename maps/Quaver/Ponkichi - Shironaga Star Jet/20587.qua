@@ -1,15 +1,18 @@
 AudioFile: audio.mp3
+SongPreviewTime: 1608
 BackgroundFile: bg.jpg
 MapId: 20587
 MapSetId: 2551
 Mode: Keys4
 Title: Shironaga Star Jet
 Artist: Ponkichi
-Source: Speed Star 2 Disc 1 Starside
-Tags: ''
+Source: Speed Star 2
+Tags: Electronic, Instrumental, RTTF-0014, RTTF, LN, Tech
 Creator: Fullest
-DifficultyName: Insane
+DifficultyName: Blast Off!
 Description: Created at 1596767946000
+BPMDoesNotAffectScrollVelocity: true
+InitialScrollVelocity: 0.94999998807907104
 EditorLayers: []
 CustomAudioSamples: []
 SoundEffects: []
@@ -17,9 +20,7 @@ TimingPoints:
 - StartTime: 2052.88671875
   Bpm: 180
 SliderVelocities:
-- StartTime: 726.984130859375
-  Multiplier: 0.94999998807907104
-- StartTime: 6636.21337890625
+- StartTime: 2052.88671875
   Multiplier: 1
 - StartTime: 191386.21875
 - StartTime: 191552.875
@@ -771,7 +772,7 @@ HitObjects:
   Lane: 1
   KeySounds: []
 - StartTime: 20886
-  Lane: 2
+  Lane: 4
   KeySounds: []
 - StartTime: 20969
   Lane: 2
@@ -780,28 +781,28 @@ HitObjects:
   Lane: 3
   KeySounds: []
 - StartTime: 21052
-  Lane: 4
+  Lane: 1
   KeySounds: []
 - StartTime: 21052
-  Lane: 3
+  Lane: 4
   KeySounds: []
 - StartTime: 21219
   Lane: 4
   KeySounds: []
 - StartTime: 21219
-  Lane: 1
+  Lane: 3
   KeySounds: []
 - StartTime: 21302
   Lane: 1
   KeySounds: []
 - StartTime: 21302
+  Lane: 2
+  KeySounds: []
+- StartTime: 21386
   Lane: 3
   KeySounds: []
 - StartTime: 21386
-  Lane: 1
-  KeySounds: []
-- StartTime: 21386
-  Lane: 2
+  Lane: 4
   KeySounds: []
 - StartTime: 21552
   Lane: 1
@@ -1495,9 +1496,6 @@ HitObjects:
 - StartTime: 40886
   Lane: 2
   KeySounds: []
-- StartTime: 40969
-  Lane: 1
-  KeySounds: []
 - StartTime: 41052
   Lane: 2
   EndTime: 41219
@@ -1999,9 +1997,6 @@ HitObjects:
 - StartTime: 54219
   Lane: 1
   EndTime: 54302
-  KeySounds: []
-- StartTime: 54219
-  Lane: 3
   KeySounds: []
 - StartTime: 54302
   Lane: 2
@@ -2575,29 +2570,29 @@ HitObjects:
   KeySounds: []
 - StartTime: 71386
   Lane: 4
-  EndTime: 71775
+  EndTime: 71719
   KeySounds: []
 - StartTime: 71386
   Lane: 3
   KeySounds: []
-- StartTime: 71775
+- StartTime: 71719
   Lane: 3
-  EndTime: 71997
+  EndTime: 71941
   KeySounds: []
-- StartTime: 71775
+- StartTime: 71719
   Lane: 2
   KeySounds: []
-- StartTime: 71886
+- StartTime: 71830
   Lane: 1
   KeySounds: []
-- StartTime: 71997
+- StartTime: 71941
   Lane: 2
-  EndTime: 72108
+  EndTime: 72052
   KeySounds: []
-- StartTime: 71997
+- StartTime: 71941
   Lane: 4
   KeySounds: []
-- StartTime: 72108
+- StartTime: 72052
   Lane: 3
   KeySounds: []
 - StartTime: 72275
@@ -3549,7 +3544,7 @@ HitObjects:
   Lane: 4
   KeySounds: []
 - StartTime: 96052
-  Lane: 1
+  Lane: 3
   KeySounds: []
 - StartTime: 96219
   Lane: 3
@@ -3590,15 +3585,12 @@ HitObjects:
 - StartTime: 97219
   Lane: 3
   KeySounds: []
-- StartTime: 97469
-  Lane: 4
-  KeySounds: []
-- StartTime: 97552
-  Lane: 3
-  KeySounds: []
 - StartTime: 97552
   Lane: 2
   EndTime: 97719
+  KeySounds: []
+- StartTime: 97552
+  Lane: 3
   KeySounds: []
 - StartTime: 97719
   Lane: 1
@@ -4916,11 +4908,11 @@ HitObjects:
   Lane: 2
   KeySounds: []
 - StartTime: 145219
-  Lane: 3
+  Lane: 4
   EndTime: 145719
   KeySounds: []
 - StartTime: 145219
-  Lane: 4
+  Lane: 3
   KeySounds: []
 - StartTime: 145302
   Lane: 2
@@ -7984,14 +7976,13 @@ HitObjects:
   KeySounds: []
 - StartTime: 226719
   Lane: 2
-  EndTime: 226802
   KeySounds: []
-- StartTime: 226802
+- StartTime: 226886
   Lane: 3
   EndTime: 227219
   KeySounds: []
 - StartTime: 226886
-  Lane: 2
+  Lane: 4
   KeySounds: []
 - StartTime: 227052
   Lane: 4
@@ -8870,18 +8861,17 @@ HitObjects:
   Lane: 2
   KeySounds: []
 - StartTime: 247636
-  Lane: 4
-  KeySounds: []
-- StartTime: 247719
-  Lane: 3
-  EndTime: 247969
+  Lane: 1
   KeySounds: []
 - StartTime: 247719
   Lane: 2
   EndTime: 247886
   KeySounds: []
 - StartTime: 247719
-  Lane: 1
+  Lane: 4
+  KeySounds: []
+- StartTime: 247719
+  Lane: 3
   KeySounds: []
 - StartTime: 247886
   Lane: 1
@@ -8889,38 +8879,31 @@ HitObjects:
 - StartTime: 247969
   Lane: 2
   KeySounds: []
-- StartTime: 247969
-  Lane: 4
-  KeySounds: []
-- StartTime: 248052
-  Lane: 1
-  EndTime: 248219
-  KeySounds: []
 - StartTime: 248052
   Lane: 3
   EndTime: 248219
   KeySounds: []
 - StartTime: 248052
-  Lane: 2
+  Lane: 4
   KeySounds: []
 - StartTime: 248219
   Lane: 4
   EndTime: 248386
   KeySounds: []
 - StartTime: 248219
-  Lane: 2
+  Lane: 1
   KeySounds: []
 - StartTime: 248302
-  Lane: 3
+  Lane: 2
   KeySounds: []
 - StartTime: 248386
-  Lane: 2
+  Lane: 3
   KeySounds: []
 - StartTime: 248386
   Lane: 1
   KeySounds: []
 - StartTime: 248469
-  Lane: 3
+  Lane: 2
   KeySounds: []
 - StartTime: 248552
   Lane: 4
@@ -8930,7 +8913,7 @@ HitObjects:
   Lane: 1
   KeySounds: []
 - StartTime: 248552
-  Lane: 2
+  Lane: 3
   KeySounds: []
 - StartTime: 248885
   Lane: 3
@@ -9126,23 +9109,21 @@ HitObjects:
   Lane: 2
   KeySounds: []
 - StartTime: 253386
-  Lane: 3
-  EndTime: 253552
-  KeySounds: []
-- StartTime: 253386
   Lane: 4
   KeySounds: []
 - StartTime: 253386
   Lane: 1
   EndTime: 253552
   KeySounds: []
-- StartTime: 253552
-  Lane: 4
-  EndTime: 253719
+- StartTime: 253386
+  Lane: 3
   KeySounds: []
 - StartTime: 253552
   Lane: 2
   EndTime: 253719
+  KeySounds: []
+- StartTime: 253552
+  Lane: 4
   KeySounds: []
 - StartTime: 253719
   Lane: 3
@@ -9194,13 +9175,6 @@ HitObjects:
 - StartTime: 254636
   Lane: 2
   KeySounds: []
-- StartTime: 254636
-  Lane: 1
-  KeySounds: []
-- StartTime: 254719
-  Lane: 1
-  EndTime: 254886
-  KeySounds: []
 - StartTime: 254719
   Lane: 3
   EndTime: 254886
@@ -9208,13 +9182,15 @@ HitObjects:
 - StartTime: 254719
   Lane: 4
   KeySounds: []
-- StartTime: 254886
-  Lane: 2
-  EndTime: 255052
+- StartTime: 254719
+  Lane: 1
   KeySounds: []
 - StartTime: 254886
   Lane: 4
   EndTime: 255052
+  KeySounds: []
+- StartTime: 254886
+  Lane: 2
   KeySounds: []
 - StartTime: 255052
   Lane: 1
@@ -9279,10 +9255,10 @@ HitObjects:
   Lane: 3
   KeySounds: []
 - StartTime: 256330
-  Lane: 4
+  Lane: 1
   KeySounds: []
 - StartTime: 256386
-  Lane: 1
+  Lane: 4
   KeySounds: []
 - StartTime: 256552
   Lane: 3
