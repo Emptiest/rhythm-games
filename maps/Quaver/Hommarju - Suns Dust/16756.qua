@@ -7,23 +7,19 @@ Mode: Keys4
 Title: Sun's Dust
 Artist: Hommarju
 Source: Voltage Ignition 3
-Tags: Electronic, Dance, Trance
+Tags: Electronic, Dance, Trance, Handstream
 Creator: Fullest
 DifficultyName: Insane
 Description: Created at 1595375662000
 EditorLayers:
 - Name: Whoosh
-  Hidden: true
-  ColorRgb: 255,255,255
+  ColorRgb: 239,64,23
 - Name: Syncptd Synth
-  Hidden: true
-  ColorRgb: 255,255,255
+  ColorRgb: 247,203,126
 - Name: Slow Melody
-  Hidden: true
-  ColorRgb: 255,255,255
+  ColorRgb: 77,147,0
 - Name: Offbeat Bass
-  Hidden: true
-  ColorRgb: 255,255,255
+  ColorRgb: 248,78,179
 CustomAudioSamples: []
 SoundEffects: []
 TimingPoints:
