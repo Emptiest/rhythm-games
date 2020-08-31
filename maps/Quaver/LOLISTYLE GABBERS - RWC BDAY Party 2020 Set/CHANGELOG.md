@@ -33,3 +33,7 @@
 #### 2020-08-26
 
 * ~25% drafted
+
+### 2020-08-30
+
+* More incremental progress
