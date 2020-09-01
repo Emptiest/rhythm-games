@@ -37,3 +37,9 @@
 ### 2020-08-30
 
 * More incremental progress
+
+### 2020-08-31
+
+* More incremental progress
+* Marked sections for the rest of the map
+* Everything from the beginning to 9:23 is one cohesive segment now!
