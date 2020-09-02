@@ -43,3 +43,9 @@
 * More incremental progress
 * Marked sections for the rest of the map
 * Everything from the beginning to 9:23 is one cohesive segment now!
+
+### 2020-09-02
+
+* About 30 seconds more progress
+* Changed the name of the difficulty
+* Added some tags for songs/artists I recognize. These will still need some work
