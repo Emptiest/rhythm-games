@@ -46,6 +46,12 @@
 
 ### 2020-09-02
 
-* About 30 seconds more progress
+* A few minutes of progress
+* Tweaked some things earlier in the map for consistency
 * Changed the name of the difficulty
-* Added some tags for songs/artists I recognize. These will still need some work
+* Added almost all tags. Just missing the one before Tell Your World
+
+### 2020-09-03
+
+* Progressed to about 12:30
+* Confirmed that the tag before Tell Your World was, in fact, Tell Your World. Tags complete!!
