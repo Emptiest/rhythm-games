@@ -55,3 +55,7 @@
 
 * Progressed to about 12:30
 * Confirmed that the tag before Tell Your World was, in fact, Tell Your World. Tags complete!!
+
+### 2020-09-15
+
+* Finished half of Marco & The Galaxy Dragon section
