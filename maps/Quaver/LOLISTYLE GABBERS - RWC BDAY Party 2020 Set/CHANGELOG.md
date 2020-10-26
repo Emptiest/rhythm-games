@@ -59,3 +59,13 @@
 ### 2020-09-15
 
 * Finished half of Marco & The Galaxy Dragon section
+
+### 2020-10-22
+
+* Tek worked on various sections
+
+### 2020-10-25
+
+* Fixed the long trill section about 15 minutes in so each change starts on the beat instead of a quarter beat late
+* Added in the transition before Steins;Gate
+* Added some bits to the Miku finale
